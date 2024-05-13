@@ -35,5 +35,9 @@
 		"vite": "^5.0.3",
 		"vitest": "^1.2.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"tailwindcss": "^3.4.3",
+		"three": "^0.164.1"
+	}
 }
